@@ -1,1 +1,1 @@
-# zmp3-app
+# demo-app
